@@ -1,2 +1,2 @@
 # ChatAppVSCode
-Chat Application with using Node.js
+Chat Application with using Node.js on VSCode
