@@ -1,0 +1,19 @@
+{
+  "name": "chatappvscode",
+  "version": "1.0.0",
+  "description": "Chat Application with using Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aysegulkndfr/ChatAppVSCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aysegulkndfr/ChatAppVSCode/issues"
+  },
+  "homepage": "https://github.com/aysegulkndfr/ChatAppVSCode#readme"
+}
